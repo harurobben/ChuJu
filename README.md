@@ -80,6 +80,8 @@
 
 ## 学習サイト
 
+- [みんなの算数オンライン](https://www.min-san.com/)
+
 - [すぐる学習会](https://www.suguru.jp/index.htm)
   - [予習シリーズ対応表](https://www.suguru.jp/series.html#5ue1)
 
