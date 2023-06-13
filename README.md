@@ -2,20 +2,22 @@
 
 ## 中学校
 
+- [芝中学校](https://www.shiba.ac.jp/)
+  - [学校説明会](https://lsg.grapecity.com/shiba/App/Account/login)
 - [広尾学園](https://www.hiroogakuen.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/hiroogj/event/evtIndex.jsf)
-- [渋谷教育学園渋谷中学校](https://www.shibushibu.jp/)
-  - [ミライコンパス](https://mirai-compass.net/usr/shibusbj/event/evtIndex.jsf)
+- [巣鴨中学校](https://sugamo.ed.jp/)
+  - [ミライコンパス](https://mirai-compass.net/usr/sugamoj/event/evtIndex.jsf)
 - [攻玉社](https://kogyokusha.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/kogyokuj/event/evtIndex.jsf)
 - [芝国際中学校](https://www.shiba-kokusai.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/tkjgkenj/event/evtIndex.jsf)
 - [高輪中学校](https://www.takanawa.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/takanwj/event/evtIndex.jsf)
+- [渋谷教育学園渋谷中学校](https://www.shibushibu.jp/)
+  - [ミライコンパス](https://mirai-compass.net/usr/shibusbj/event/evtIndex.jsf)
 - [麻布中学校](https://www.azabu-jh.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/azabuj/event/evtIndex.jsf)
-- [芝中学校](https://www.shiba.ac.jp/)
-  - [学校説明会](https://lsg.grapecity.com/shiba/App/Account/login)
 - [海城中学校](https://www.kaijo.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/kaijoj/event/evtIndex.jsf)
 
