@@ -124,6 +124,7 @@
 
 ## 情報サイト
 
+- [みんなの中学校情報（口コミ）](https://www.minkou.jp/junior/)
 - [オンライン合同学校説明会](https://www.jhschool.site/)
   - [2021 文化祭開催情報](https://www.jhschool.site/2021/09/06/2021fetival/)
 - [ReseMom](https://resemom.jp/special/90/recent/%E4%B8%AD%E5%AD%A6%E5%8F%97%E9%A8%93)
