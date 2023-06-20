@@ -42,6 +42,10 @@
 
 ## ブログ
 
+- [中学受験ウォッチ](https://juken-log.net/)
+  - [過去問を解きやすくする – 赤本編](https://juken-log.net/archives/986)
+  - [過去問をどの学校からやるのか](https://juken-log.net/archives/135)
+
 - [Smile 中学受験](https://smile2021.hatenablog.com/)
   - [中学受験　解き直しノート　作り方](https://smile2021.hatenablog.com/entry/%E4%B8%AD%E5%AD%A6%E5%8F%97%E9%A8%93%E9%96%93%E9%81%95%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88%E4%BD%9C%E3%82%8A%E6%96%B9)
   - [「取り組みを時系列で教えてください」](https://smile2021.hatenablog.com/entry/%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%82%92%E6%99%82%E7%B3%BB%E5%88%97%E3%81%A7)
