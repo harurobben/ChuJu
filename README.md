@@ -34,10 +34,13 @@
   - [小学5年生の1週間の流れと学習システム](https://www.yotsuyaotsuka.com/separate/grade5.php#houshin)
   - [進学くらぶ](https://www.yotsuyaotsuka.com/school/shingaku/)
   - [偏差値一覧](https://www.yotsuyaotsuka.com/njc/deviation_top.php)
- - [日能研](http://www.nichinoken.co.jp/index.html)
-   - [Nポータル](https://www.nichinoken.co.jp/np5/portal/open/index.php)
- - [早稲田アカデミー](https://www.waseda-ac.co.jp/elementary/)
- - [麻布中合格対策ドクター](https://www.chugakujuken.jp/azabu/sansu/)
+- [日能研](http://www.nichinoken.co.jp/index.html)
+  - [Nポータル](https://www.nichinoken.co.jp/np5/portal/open/index.php)
+- [早稲田アカデミー](https://www.waseda-ac.co.jp/elementary/)
+- [麻布中合格対策ドクター](https://www.chugakujuken.jp/azabu/sansu/)
+- [ジーニアス](https://labo-g.net/)
+  - [芝オープン](https://labo-g.net/shiba-ex)
+- [受験Dr.](https://chugakujuken.com/)
 
 
 ## ブログ
@@ -134,6 +137,7 @@
 
 ## 便利情報
 
+- [PDFの色が薄い文字(本・書類をスキャンした)画像を濃くする](https://kichizu.com/pdf-darken-characters/)
 - [方眼紙ネット](https://houganshi.net/houganshi_solid.php)
 - [無印良品-仕切りで、すっきり](https://www.muji.com/jp/ja/store/articles/staff-blog/lifetips/875336)
 
