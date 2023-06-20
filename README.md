@@ -8,6 +8,8 @@
   - [ミライコンパス](https://mirai-compass.net/usr/hiroogj/event/evtIndex.jsf)
 - [巣鴨中学校](https://sugamo.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/sugamoj/event/evtIndex.jsf)
+- [世田谷学園](https://www.setagayagakuen.ac.jp/)
+  - [ミライコンパス](https://mirai-compass.net/usr/setagygj/event/evtIndex.jsf)
 - [攻玉社](https://kogyokusha.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/kogyokuj/event/evtIndex.jsf)
 - [芝国際中学校](https://www.shiba-kokusai.ed.jp/)
