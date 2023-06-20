@@ -132,6 +132,8 @@
 ## その他
 
 - [東京都の私立中学校偏差値ランキング](http://www.chu-shigaku.com/list/p_tokyo/popular_1.html)
+- [経済産業省 資源エネルギー庁](https://www.enecho.meti.go.jp/)
+  - [知っておきたいエネルギーの基礎用語 ～メタンハイドレートとは？](https://www.enecho.meti.go.jp/about/special/johoteikyo/methanehydrate.html)
 - [鉄緑会](https://www.tetsuryokukai.co.jp/)
 - [朝日小学生新聞](https://mypage.asagaku.com/member/top)
 
