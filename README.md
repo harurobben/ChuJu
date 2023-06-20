@@ -116,6 +116,7 @@
   - [地理](https://www.nhk.or.jp/kokokoza/tv/chiri/)
   - [科学と人間生活](https://www.nhk.or.jp/kokokoza/tv/kagakuningen/)
 
+- [じじもんスクラム](https://jijimon.jp/)
 
 ## YouTube
 
