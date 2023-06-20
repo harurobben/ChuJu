@@ -20,6 +20,8 @@
   - [ミライコンパス](https://mirai-compass.net/usr/azabuj/event/evtIndex.jsf)
 - [海城中学校](https://www.kaijo.ed.jp/)
   - [ミライコンパス](https://mirai-compass.net/usr/kaijoj/event/evtIndex.jsf)
+- [成城中学校](https://www.seijogakko.ed.jp/)
+  - [ミライコンパス](https://mirai-compass.net/usr/seijoj/event/evtIndex.jsf)
 
 ## 塾
 
